@@ -94,9 +94,13 @@ lblCurp.setText("CURP: " + (Validador.esCurpValida(curp) ? "VÁLIDO" : "NO VÁLI
 // Valida descripción
 lblDescripcion.setText("Descripción: " + (Validador.noEsNuloNiVacio(descripcion) ? "VÁLIDO" : "NO VÁLIDO"));
 ```
-##Vista Previa de la Interfaz 
-###Validación Fallida
-###Validación Exitosa
+## Vista Previa de la Interfaz 
+### Validación Exitosa
+<img width="610" height="907" alt="Captura de pantalla 2025-07-10 211927" src="https://github.com/user-attachments/assets/f725ac3f-9c8d-4068-8309-131586eadba0" />
+
+### Validación Fallida
+
+<img width="607" height="904" alt="Captura de pantalla 2025-07-10 212003" src="https://github.com/user-attachments/assets/e0dc8f12-a74b-484e-8be1-253bf3e4913c" />
 
 
 ## ¿Cómo importar el archivo `.jar` en otro proyecto?
